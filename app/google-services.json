@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510814649872",
+    "project_id": "materialsmanagement-1b26a",
+    "storage_bucket": "materialsmanagement-1b26a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510814649872:android:ae72c22b817108a89e9495",
+        "android_client_info": {
+          "package_name": "com.dod.materialsmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510814649872-31uqkog664ctlo30h7khchgl938b8lf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dod.materialsmanagement",
+            "certificate_hash": "5e58984c94c8155bf1c93df40b7f72db1254bfc4"
+          }
+        },
+        {
+          "client_id": "510814649872-i2cgos1b7dcff3kmcqma7v54cjgbjshj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClct8hzPsJMWEo1RYlP4IjieeKjEAOeVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510814649872-i2cgos1b7dcff3kmcqma7v54cjgbjshj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
